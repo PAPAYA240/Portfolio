@@ -62,4 +62,6 @@
 <br>
 
 # 📞 Contact
-- 이메일 : lny011112@gmail.com
+* **Email** : [lny011112@gmail.com](mailto:lny011112@gmail.com)
+* **GitHub** : [PAPAYA240](https://github.com/PAPAYA240)
+<br>
