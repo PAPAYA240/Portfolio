@@ -17,7 +17,7 @@
 > - **기술 스택** : C#, Unity
 > - **역할** : 몬스터/플레이어/환경 오브젝트/이펙트/사운드
 > 
-> [👉 프로젝트 상세설명 바로가기](https://github.com/PAPAYA240/Unity_Project.git)<br><br>
+> [👉 프로젝트 상세설명 바로가기](https://github.com/PAPAYA240/ER_Project.git)<br><br>
 
 ## 2️⃣ Undead Servivor
 > 전략적 선택으로 게임을 진행하는 2D 로그라이크 프로젝트입니다.
