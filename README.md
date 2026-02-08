@@ -64,7 +64,7 @@
 > - **개발 기간** : 2023.10(2주)
 > - **기술 스택** : C++, DirectX11
 > 
-> [👉 프로젝트 영상 보러가](https://youtu.be/Ayg-ZjdFHT8?si=1Xr4bCmU8kUseRsg)<br><br>
+> [👉 프로젝트 영상 보러가기](https://youtu.be/Ayg-ZjdFHT8?si=1Xr4bCmU8kUseRsg)<br><br>
 <br>
 
 # 📞 Contact
