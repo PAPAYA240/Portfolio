@@ -53,7 +53,7 @@
 > 
 > - **개발 인원** : 1인 (개인 프로젝트)
 > - **개발 기간** : 2023.10(2주)
-> - **기술 스택** : C++, WindowAPI
+> - **기술 스택** : C++, WindowAPI, MFC
 > 
 > [👉 프로젝트 영상 보러가기](https://youtu.be/V_AHgH8Fg94?si=_iZN5H725oWGJ5XF)<br><br>
 
