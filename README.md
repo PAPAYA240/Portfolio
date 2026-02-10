@@ -41,7 +41,7 @@
 > - **기술 스택** : C++, DirectX11, HLSL
 > - **역할** : UI/미니맵/퍼즐/UI및 Effect Tool
 >   
-> [👉 프로젝트 영상 보러가기](https://www.youtube.com/watch?v=A86mi0EwGC4)<br><br>
+> [👉 프로젝트 상세설명 바로가기](https://github.com/PAPAYA240/D3D11_Biohazard_Re-2.git)<br><br>
 
 ## 4️⃣ Fallen Aces
 > 느와르를 배경으로 한 FPS 프로젝트입니다.
