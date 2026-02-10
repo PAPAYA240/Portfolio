@@ -39,7 +39,7 @@
 > - **개발 인원** : 6인 (팀 프로젝트)
 > - **개발 기간** : 2024.06 - 2024.07 (8주)
 > - **기술 스택** : C++, DirectX11, HLSL
-> - **역할** : UI/미니맵/퍼즐/UI와 Effect Tool
+> - **역할** : UI/미니맵/퍼즐/UI및 Effect Tool
 >   
 > [👉 프로젝트 상세설명 바로가기](https://github.com/PAPAYA240/D3D11_Biohazard_Re-2.git)<br><br>
 
@@ -49,9 +49,9 @@
 > - **개발 인원** : 4인 (팀 프로젝트)
 > - **개발 기간** : 2024.02 - 2024.03 (8주)
 > - **기술 스택** : C++, DirectX9
-> - **역할** : 몬스터/아이템/ Map Tool
+> - **역할** : 몬스터/아이템/ Map Tool및 제작
 >   
-> [👉 프로젝트 상세설명 바로가기](https://github.com/PAPAYA240/Fallen_Aces.git)<br><br>
+> [👉 프로젝트 영상 보러가기](https://www.youtube.com/watch?v=wK5k_gxmxFk&t=185s)<br><br>
 
 ## 5️⃣ 젤다의 전설 이상한 모자
 > 스토리형 퍼즐 비디오 게임 프로젝트입니다.
