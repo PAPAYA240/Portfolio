@@ -7,8 +7,8 @@
 
 <br><br>
 
-# 📊 문제 해결 포트폴리오 
-> [👉 PPT 링크](https://drive.google.com/file/d/1cLavQBYdfMrcSo0_m_JsWDz9xJ9nCGyL/view?usp=sharing)
+# 📊 포트폴리오 
+ > [문제 해결 포트폴리오 보러가기 🚀](https://drive.google.com/file/d/1cLavQBYdfMrcSo0_m_JsWDz9xJ9nCGyL/view?usp=sharing)
 
 <br><br>
 
